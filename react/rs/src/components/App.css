@@ -1,0 +1,10 @@
+/* .html.segment {
+    padding: 3.5em 1em 1em;
+} */
+
+.example {
+    margin: 2em 0em !important;
+    padding: 2em 0em !important;
+    position: relative;
+    -webkit-tap-highlight-color: transparent;
+}
